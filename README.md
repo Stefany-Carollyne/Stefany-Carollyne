@@ -11,3 +11,7 @@ Olá! Meu nome é Stéfany Carollyne
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@stefanycarollynebentodasil1152)
 
 ![Stefany GitHub stats](https://github-readme-stats.vercel.app/api?username=Stefany-Carollyne&show_icons=true&theme=tokyonight)
+
+<div style="display: inline_block"><br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+</div>
